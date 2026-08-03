@@ -18,7 +18,7 @@ After an interdisciplinary motivation, the course will introduce the mathematica
 
 # Materials
 
-* You can find the slides for the lecture here: (will be uploaded soon). Note the slides will still be updated as the course progresses.
+* You can find the slides for the lecture here: [`esslli26.pdf`](esslli26.pdf). Note the slides will still be updated as the course progresses.
 * I also have given a full semester course on Stone duality, on which the present course is based. You can find the lecture notes of that course [here](https://levinhornischer.github.io/DualityTheory/).
 * Both in the slides and in the lecture notes, you find many references to excellent further material on duality theory.
 
