@@ -29,5 +29,5 @@ Lecture | Topic
 1       | Introduction and motivation
 2       | Boolean algebras
 3       | Stone spaces
-4       | Stone's theorem and proof idea
-5       | Applications and generalizations
+4       | Stone's theorem (statement)
+5       | Proof and applications
